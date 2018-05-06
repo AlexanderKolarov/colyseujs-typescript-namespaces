@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "module": "none",
+    "target": "es5",
+    "sourceMap": true,
+    "outFile": "./build/colyseus.js",
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "noImplicitThis": false,
+    "alwaysStrict": false,
+    "noImplicitReturns": false,
+    "allowUnreachableCode": true
+  },
+  "include": [
+    "./src/**/*.ts"
+  ]
+}
